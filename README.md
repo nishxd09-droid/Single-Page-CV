@@ -1,2 +1,3 @@
 # project url
-https://nishxd09-droid.github.io/Single-Page-CV/
+
+https://github.com/nishxd09-droid/Single-Page-CV
