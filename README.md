@@ -6,4 +6,4 @@ A simple single-page CV built with HTML.
 https://nishxd09-droid.github.io/Single-Page-CV/
 
 ## Technologies Used
-- HTML..
+- HTML..Test
